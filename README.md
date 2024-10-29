@@ -66,9 +66,11 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
 ![image](https://github.com/user-attachments/assets/fe4695d4-6fad-44ef-a145-ea6fc21e0ab9)
 
 $ ipcs
+
 ![image](https://github.com/user-attachments/assets/be057eef-d815-4abf-b466-fad65bbc3deb)
 
 
